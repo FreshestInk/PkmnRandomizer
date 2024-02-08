@@ -377,6 +377,15 @@ if (amount == 1) {
     }
     
   }
+
+function generate(){
+return Poke();
+ return Abby();
+ return Natty();
+ return Type();
+ return random();
+ 
+ }
   
   
 
